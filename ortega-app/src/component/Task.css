@@ -1,0 +1,21 @@
+.task-row {
+  border-bottom: 1px solid #ddd;
+}
+
+.task-cell {
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.task-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.task-button:hover {
+  background-color: #0056b3;
+}
